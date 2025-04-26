@@ -106,13 +106,13 @@ class MyApp extends StatelessWidget {
           errorStyle: TextStyle(
             color: Colors.red,
           ),
-          prefixIconConstraints: const BoxConstraints(
+          prefixIconConstraints: BoxConstraints(
             maxWidth: 40,
             maxHeight: 40,
             minWidth: 24,
             minHeight: 24,
           ),
-          suffixIconConstraints: const BoxConstraints(
+          suffixIconConstraints: BoxConstraints(
             maxWidth: 40,
             maxHeight: 40,
             minWidth: 24,

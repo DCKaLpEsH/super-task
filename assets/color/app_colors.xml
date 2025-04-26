@@ -221,4 +221,31 @@
     <color name="catskill_white">#E3E8F1</color>
     <color name="blue_haze">#C6CEDD</color>
     <color name="san_juan">#2C406E</color>
+    <color name="lucky_point">#12175E</color>
+
+    <!-- Task Status Colors -->
+    <!-- Completed -->
+    <color name="hummingbird">#CBF9D8</color>
+    <color name="screamin_green">#67EF8D</color>
+
+    <!-- Ongoing -->
+    <color name="lily_white">#EBF9FF</color>
+    <color name="dodger_blue_4">#46C7FE</color>
+
+    <!-- Cancelled -->
+    <color name="chablis">#FFF2F2</color>
+    <color name="tonys_pink">#E88B8C</color>
+
+    <!-- Pending -->
+    <color name="titan_white">#EEF0FF</color>
+    <color name="portage_8">#8F99EB</color>
+
+    <color name="seagull">#7DC8E7</color>
+    <color name="deep_blus">#E77D7D</color>
+    <color name="portage">#7D88E7</color>
+    <color name="pastel_green_8">#81E89E</color>
+    <color name="white_lilac">#F9FAFD</color>
+    <color name="rock_blue">#9AA8C7</color>
+
+
 </resources>

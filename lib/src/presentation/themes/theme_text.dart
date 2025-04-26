@@ -108,7 +108,7 @@ abstract class AppTextStyle {
     fontFamily: FontFamily.poppins,
     fontSize: 16,
     height: 1.5,
-    fontWeight: FontWeight.w500,
+    fontWeight: FontWeight.w400,
     letterSpacing: 0.15,
   );
 

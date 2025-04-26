@@ -3,9 +3,9 @@ import 'package:flutter/material.dart';
 
 class SocialIconsWidget extends StatelessWidget {
   const SocialIconsWidget({
-    super.key,
     required this.onFacebookPressed,
     required this.onGooglePressed,
+    super.key,
   });
 
   final void Function() onFacebookPressed;

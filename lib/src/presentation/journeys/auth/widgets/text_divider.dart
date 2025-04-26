@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 
 class TextDivider extends StatelessWidget {
   const TextDivider({
-    super.key,
     required this.text,
+    super.key,
   });
 
   final String text;

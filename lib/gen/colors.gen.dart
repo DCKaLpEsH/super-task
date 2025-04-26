@@ -124,6 +124,9 @@ class AppColors {
   /// Color: #F7FFED
   static const Color ceramic = Color(0xFFF7FFED);
 
+  /// Color: #FFF2F2
+  static const Color chablis = Color(0xFFFFF2F2);
+
   /// Color: #416530
   static const Color chaletGreen = Color(0xFF416530);
 
@@ -214,6 +217,9 @@ class AppColors {
   /// Color: #163808
   static const Color darkFern8 = Color(0xFF163808);
 
+  /// Color: #E77D7D
+  static const Color deepBlus = Color(0xFFE77D7D);
+
   /// Color: #002204
   static const Color deepFir = Color(0xFF002204);
 
@@ -237,6 +243,9 @@ class AppColors {
 
   /// Color: #4C9AFF
   static const Color dodgerBlue = Color(0xFF4C9AFF);
+
+  /// Color: #46C7FE
+  static const Color dodgerBlue4 = Color(0xFF46C7FE);
 
   /// Color: #535252
   static const Color dorado = Color(0xFF535252);
@@ -310,6 +319,9 @@ class AppColors {
   /// Color: #5699B9
   static const Color hippieBlue9 = Color(0xFF5699B9);
 
+  /// Color: #CBF9D8
+  static const Color hummingbird = Color(0xFFCBF9D8);
+
   /// Color: #A0F0F2
   static const Color iceCold = Color(0xFFA0F0F2);
 
@@ -352,6 +364,9 @@ class AppColors {
   /// Color: #8D9387
   static const Color lemonGrass7 = Color(0xFF8D9387);
 
+  /// Color: #EBF9FF
+  static const Color lilyWhite = Color(0xFFEBF9FF);
+
   /// Color: #F8FAF0
   static const Color loafer = Color(0xFFF8FAF0);
 
@@ -360,6 +375,9 @@ class AppColors {
 
   /// Color: #20251D
   static const Color logCabinD = Color(0xFF20251D);
+
+  /// Color: #12175E
+  static const Color luckyPoint = Color(0xFF12175E);
 
   /// Color: #3F443B
   static const Color lunarGreen = Color(0xFF3F443B);
@@ -451,6 +469,9 @@ class AppColors {
   /// Color: #80DC59
   static const Color pastelGreen = Color(0xFF80DC59);
 
+  /// Color: #81E89E
+  static const Color pastelGreen8 = Color(0xFF81E89E);
+
   /// Color: #D5E3FF
   static const Color pattensBlue = Color(0xFFD5E3FF);
 
@@ -477,6 +498,12 @@ class AppColors {
 
   /// Color: #E9EFF0
   static const Color porcelain0 = Color(0xFFE9EFF0);
+
+  /// Color: #7D88E7
+  static const Color portage = Color(0xFF7D88E7);
+
+  /// Color: #8F99EB
+  static const Color portage8 = Color(0xFF8F99EB);
 
   /// Color: #003548
   static const Color prussianBlue = Color(0xFF003548);
@@ -505,6 +532,9 @@ class AppColors {
   /// Color: #E9C16C
   static const Color robRoy = Color(0xFFE9C16C);
 
+  /// Color: #9AA8C7
+  static const Color rockBlue = Color(0xFF9AA8C7);
+
   /// Color: #FFFCF9
   static const Color romance = Color(0xFFFFFCF9);
 
@@ -528,6 +558,12 @@ class AppColors {
 
   /// Color: #930014
   static const Color scarlett = Color(0xFF930014);
+
+  /// Color: #67EF8D
+  static const Color screaminGreen = Color(0xFF67EF8D);
+
+  /// Color: #7DC8E7
+  static const Color seagull = Color(0xFF7DC8E7);
 
   /// Color: #284B1A
   static const Color seaweed = Color(0xFF284B1A);
@@ -613,6 +649,12 @@ class AppColors {
   /// Color: #073D3E
   static const Color tiber = Color(0xFF073D3E);
 
+  /// Color: #EEF0FF
+  static const Color titanWhite = Color(0xFFEEF0FF);
+
+  /// Color: #E88B8C
+  static const Color tonysPink = Color(0xFFE88B8C);
+
   /// Color: #68B8BA
   static const Color tradewind = Color(0xFF68B8BA);
 
@@ -642,6 +684,9 @@ class AppColors {
 
   /// Color: #FFFFFF
   static const Color white = Color(0xFFFFFFFF);
+
+  /// Color: #F9FAFD
+  static const Color whiteLilac = Color(0xFFF9FAFD);
 
   /// Color: #FFFBFF
   static const Color whitePointer = Color(0xFFFFFBFF);
